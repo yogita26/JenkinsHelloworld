@@ -1,4 +1,3 @@
-package String_Program;
 
 public class HelloWorld {
 
